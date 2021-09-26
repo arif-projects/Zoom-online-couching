@@ -1,0 +1,9 @@
+.cart{
+    background-color: #93c5fd;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.cart:hover{
+    background-color: #3b82f6;
+}

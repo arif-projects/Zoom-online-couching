@@ -1,0 +1,15 @@
+.center-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.teacherContainer{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+    margin-right: 5px;
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+}

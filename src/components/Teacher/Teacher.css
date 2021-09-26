@@ -1,0 +1,31 @@
+.btn{
+    color: white;
+    font-weight: 500;
+    background-color: black;
+    padding: 10px;
+    width: 130px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    color: black;
+    background-color: rgb(59, 163, 163);
+    margin-bottom: 5px;
+}
+
+.teacher{
+    background-color: #d1d5db;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+.teacher:hover{
+    background-color: #9ca3af;
+}
+
+.teacher img{
+    border-radius: 360px;
+    height: 240px;
+    width: 260px;
+}

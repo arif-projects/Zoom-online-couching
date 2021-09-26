@@ -1,7 +1,7 @@
 # Project title: Zoom Online Couching Center
 
 
-## Live site link: https://jolly-easley-030681.netlify.app/
+## Live site link: https://zoom-couching-center.netlify.app/
 
 
 ### * Language used: 
